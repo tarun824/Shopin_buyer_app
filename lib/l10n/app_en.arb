@@ -1,0 +1,260 @@
+{
+
+   "selectYourLanguage": "Select Your Language!",
+  "@selectYourLanguage": {
+    "description": "To select the language that is needed for user"
+  },
+  "alreadyHaveAccount": "Already have an Account",
+  "@alreadyHaveAccount": {
+    "description": "Indicates that the user already has an account"
+  },
+  "createAccount": "Do not have account, Signup",
+  "@createAccount": {
+    "description": "Prompts the user to create a new account"
+  },
+  "logIn": "LogIn",
+  "@logIn": {
+    "description": "Label for the action of logging in"
+  },
+  "signup": "SignUp",
+  "@signIn": {
+    "description": "Label for signing in"
+  },
+  "logout": "Logout",
+  "@logout": {
+    "description": "Label for logging out"
+  },
+  "skip": "Skip",
+  "@skip": {
+    "description": "Label for skipping an action"
+  },
+  "next": "Next",
+  "@next": {
+    "description": "Label for proceeding to the next step"
+  },
+  "password": "Password",
+  "@password": {
+    "description": "Label for a password field"
+  },
+  "enterPassword": "Enter Password",
+  "@enterPassword": {
+    "description": "Prompt to enter a password"
+  },
+  "wrongPassword": "Wrong Password",
+  "@wrongPassword": {
+    "description": "Indicates that the entered password is incorrect"
+  },
+  "submit": "Submit",
+  "@submit": {
+    "description": "Label for submitting a form"
+  },
+  "emailId": "EmailId",
+  "@emailId": {
+    "description": "Label for an email ID field"
+  },
+  "enterEmail": "Enter your Email ID",
+  "@enterEmail": {
+    "description": "Prompt to enter an email ID"
+  },
+  "enterValidEmail": "Enter Valid Email ID",
+  "@enterValidEmail": {
+    "description": "Prompt to enter a valid email ID"
+  },
+  "home": "Home",
+  "@home": {
+    "description": "Label for the home screen"
+  },
+  "search": "Search",
+  "@search": {
+    "description": "Label for the search action"
+  },
+  "groups": "Groups",
+  "@groups": {
+    "description": "Label for groups or categories"
+  },
+  "orderHistory": "Order History",
+  "@orderHistory": {
+    "description": "Label for order history"
+  },
+  "coins": "Coins",
+  "@coins": {
+    "description": "Label for virtual coins or currency"
+  },
+  "profile": "Profile",
+  "@profile": {
+    "description": "Label for user profile"
+  },
+  "theme": "Theme",
+  "@theme": {
+    "description": "Label for app theme settings"
+  },
+  "changeLanguage": "Change Language",
+  "@changeLanguage": {
+    "description": "Label for changing app language"
+  },
+  "about": "About",
+  "@about": {
+    "description": "Label for app information or details"
+  },
+  "search": "Search",
+  "@search": {
+    "description": "Label for search action"
+  },
+  "offers": "Offers",
+  "@offers": {
+    "description": "Label for promotional offers"
+  },
+  "categories": "Categories",
+  "@categories": {
+    "description": "Label for product categories"
+  },
+  "homeAndKitchen": "Home and Kitchen",
+  "@homeAndKitchen": {
+    "description": "Label for home and kitchen products"
+  },
+  "mobilesAndLaptops": "Mobiles and Laptops",
+  "@mobilesAndLaptops": {
+    "description": "Label for mobiles and laptops category"
+  },
+  "filter": "Filter",
+  "@filter": {
+    "description": "Label for applying filters"
+  },
+  "sort": "Sort",
+  "@sort": {
+    "description": "Label for sorting items"
+  },
+  "addToCart": "Add to Cart",
+  "@addToCart": {
+    "description": "Label for adding item to the cart"
+  },
+  "addToGroupCart": "Add to Group Cart",
+  "@addToGroupCart": {
+    "description": "Label for adding item to a group cart"
+  },
+  "description": "Description",
+  "@description": {
+    "description": "Label for item description"
+  },
+  "price": "Price {priceVar}",
+  "@price": {
+    "description": "Label for item price",
+    "placeholders":{
+      "priceVar":{
+        "type":"String"
+      }
+    }
+  },
+  "rating": "Rating",
+  "@rating": {
+    "description": "Label for item rating"
+  },
+  "review": "Review",
+  "@review": {
+    "description": "Label for writing a review"
+  },
+  "mobileKitchenItemSareeBook": "Mobile,Kitchen item,Saree,book...",
+  "@review": {
+    "description": "For Search TextField"
+  },
+  "address": "Address",
+  "@address": {
+    "description": "Label for address"
+  },
+  "sameAddress": "Same Address",
+  "@sameAddress": {
+    "description": "Label for same address"
+  },
+  "fillDetails": "Fill your Details",
+  "@fillDetails": {
+    "description": "Label for filling user details"
+  },
+  "enterPhoneNumber": "Enter Phone Number",
+  "@enterPhoneNumber": {
+    "description": "Label for entering phone number"
+  },
+  "deliveryAddress": "Delivery Address",
+  "@deliveryAddress": {
+    "description": "Label for delivery address"
+  },
+  "coupon": "Coupon",
+  "@coupon": {
+    "description": "Label for coupon"
+  },
+  "coins": "Coins",
+  "@coins": {
+    "description": "Label for coins"
+  },
+  "total": "Total",
+  "@total": {
+    "description": "Label for total"
+  },
+  "amount": "Amount",
+  "@amount": {
+    "description": "Label for amount"
+  },
+  "orderPlaced": "Order Successfully Placed",
+  "@orderPlaced": {
+    "description": "Confirmation message for successful order placement"
+  },
+  "clickForHomePage": "Click for Home page",
+  "@clickForHomePage": {
+    "description": "Label for clicking to go to home page"
+  },
+  "saveChangesAndContinue": "Save changes & Continue",
+  "@saveChangesAndContinue": {
+    "description": "Label for saving changes and continuing"
+  },
+  "continueName": "Continue",
+  "@continueName": {
+    "description": "Label for continuing"
+  },
+  "enterGroupId": "Enter Group Id",
+  "@enterGroupId": {
+    "description": "Label for entering group ID"
+  },
+  "joinGroup": "Join Group",
+  "@joinGroup": {
+    "description": "Label for joining a group"
+  },
+  "info": "Info",
+  "@info": {
+    "description": "Label for information"
+  },
+  "groupInfo": "Group Info",
+  "@groupInfo": {
+    "description": "Label for group information"
+  },
+  "allMembers": "All Members",
+  "@allMembers": {
+    "description": "Label for all group members"
+  },
+  "groupOrders": "Group Orders",
+  "@groupOrders": {
+    "description": "Label for group orders"
+  },
+  "cart": "Cart",
+  "@cart": {
+    "description": "Label for cart"
+  },
+  "generateQrCode": "Generate Qr code",
+  "@generateQrCode": {
+    "description": "Label for generating QR code"
+  },
+  "groupIdCopied": "Group Id Copied to Clipboard",
+  "@groupIdCopied": {
+    "description": "Notification when group ID is copied to clipboard"
+  },
+  "qrCodeNote": "Note: This group QR code is for a private group, Sharing it with someone will grant them access to the group and the ability to place orders.",
+  "@qrCodeNote": {
+    "description": "Note about the privacy implications of sharing the QR code"
+  },
+  "scanMe": "Scan Me",
+  "@scanMe": {
+    "description": "Label for scanning a QR code"
+  },
+  "copyGroupId": "Copy Group Id",
+  "@copyGroupId": {
+    "description": "Label for copying group ID"
+  }
+}
